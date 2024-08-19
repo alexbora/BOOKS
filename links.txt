@@ -1,0 +1,5 @@
+https://github.com/freebendy/ben-books/tree/master/POSIX_Thread
+https://github.com/lighthousand/books/blob/master/Modern%20C%2B%2B%20Design--Generic%20Programming%20and%20Design%20Patterns%20Applied.pdf
+https://github.com/PacktPublishing/Hands-On-Design-Patterns-with-CPP-Second-Edition/blob/main/Chapter07/24a_pseudo_concepts.C
+https://github.com/EvanLi/programming-book-2/blob/master/C++/The%20C++%20Programming%20Language%28Fourth%20Edition%29.pdf
+https://github.com/ikoHSE/Books-1
